@@ -2,3 +2,6 @@
 .idea/*
 target/*
 SwordOffer.iml
+.gitignore
+*.iml
+LICENSE
