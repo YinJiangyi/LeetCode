@@ -12,9 +12,9 @@
 |二叉树|[合并二叉树](https://github.com/YinJiangyi/LeetCode/blob/main/src/main/java/com/my/Tree/MergeTwoTree.java)|简单|617|递归|
 |二叉树|[翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)|简单|226|递归|
 |二叉树|[二叉树的锯齿形层序遍历](https://github.com/YinJiangyi/LeetCode/blob/main/src/main/java/com/my/Tree/ZigzaglevelOrder.java)|中等|103|层序遍历，队列和栈|
-|二叉树|[二叉树的直径](https://github.com/YinJiangyi/LeetCode/blob/main/src/main/java/com/my/Tree/DiameterOfTree.java)|简单|543|递归|
+|二叉树|[⭐️二叉树的直径](https://github.com/YinJiangyi/LeetCode/blob/main/src/main/java/com/my/Tree/DiameterOfTree.java)|简单|543|递归|
 |二叉树|[二叉树的右视图](https://github.com/YinJiangyi/LeetCode/blob/main/src/main/java/com/my/Tree/RightSightView.java)|中等|199|层序遍历，队列|
-|二叉树|[二叉树的最大路径和](https://github.com/YinJiangyi/LeetCode/blob/main/src/main/java/com/my/Tree/MaxSumOfPath.java)|困难|124|递归|
+|二叉树|[⭐️二叉树的最大路径和](https://github.com/YinJiangyi/LeetCode/blob/main/src/main/java/com/my/Tree/MaxSumOfPath.java)|困难|124|递归|
 |二叉树|[二叉树的最大深度](https://github.com/YinJiangyi/LeetCode/blob/main/src/main/java/com/my/Tree/MaxDepth.java)|简单|104|递归|
 |二叉树|[对称二叉树](https://github.com/YinJiangyi/LeetCode/blob/main/src/main/java/com/my/Tree/SymmetricTree.java)|简单|101|递归|
 |二叉树|[相同的树](https://github.com/YinJiangyi/LeetCode/blob/main/src/main/java/com/my/Tree/SameTree.java)|简单|100|递归|
