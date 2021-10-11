@@ -23,6 +23,7 @@
 |二叉树|[二叉树的后续遍历](https://github.com/YinJiangyi/LeetCode/blob/main/src/main/java/com/my/Tree/OrderReversal.java)|简单|145|遍历|
 |二叉树|[二叉树的中序遍历](https://github.com/YinJiangyi/LeetCode/blob/main/src/main/java/com/my/Tree/OrderReversal.java)|简单|94|遍历|
 |二叉树|[二叉树的前序遍历](https://github.com/YinJiangyi/LeetCode/blob/main/src/main/java/com/my/Tree/OrderReversal.java)|简单|144|遍历|
+|二叉树|[⭐️二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)|中等|236|前序遍历，递归|
 |链表|[从头到尾打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)|简单|6|栈|
 |数组|[合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci/)|简单|面试金典10.01|双指针|
 |数组|[二维数组的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/)|中等|4|数组|
