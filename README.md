@@ -6,7 +6,7 @@
 ### 目录
 
 |类型|题目及解题|难度|LeetCode题号| 剑指Offer题号 |标签|
-|:-----|:----|:----|:----|:----|:----|
+|:------------|:----|:----|:----|:----|:----|
 |二叉树|[验证二叉搜索树](https://github.com/YinJiangyi/LeetCode/blob/main/src/main/java/com/my/Tree/BinarySearchTree.java)|中等|98| |递归，排序|
 |二叉树|[重建二叉树](https://github.com/YinJiangyi/LeetCode/blob/main/src/main/java/com/my/Tree/BuildTree.java)|中等|105|7|递归，二分法||
 |二叉树|[合并二叉树](https://github.com/YinJiangyi/LeetCode/blob/main/src/main/java/com/my/Tree/MergeTwoTree.java)|简单|617| |递归|
